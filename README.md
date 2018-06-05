@@ -1,4 +1,4 @@
 [下载][123]
 
 
-[123]: itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/yh8577/test/master/my.plist
+[123]: https://raw.githubusercontent.com/yh8577/test/master/my.plist
